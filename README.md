@@ -1,5 +1,3 @@
-```
-```
 # Analizor Statistic de Complexitate a Parolei
 
 Acesta este un script Python interactiv care evaluează securitatea unei parole folosind metrici statistice și matematice, cum ar fi **Entropia Shannon** și **Entropia Teoretică**, pe lângă analiza structurală clasică (lungime, diversitate de caractere și pattern-uri comune).
