@@ -1,4 +1,5 @@
-```markdown
+```
+```
 # Analizor Statistic de Complexitate a Parolei
 
 Acesta este un script Python interactiv care evaluează securitatea unei parole folosind metrici statistice și matematice, cum ar fi **Entropia Shannon** și **Entropia Teoretică**, pe lângă analiza structurală clasică (lungime, diversitate de caractere și pattern-uri comune).
@@ -50,9 +51,7 @@ Rulează scriptul din terminal folosind comanda:
 
 ```bash
 python analizor_parole.py
-
 ```
-
 ### Exemplu de rulare în consolă:
 
 ```text
@@ -109,7 +108,3 @@ Scorul final (0-100) este determinat pe baza următoarelor criterii:
 * **50 - 69:** Medie
 * **70 - 89:** Puternică
 * **90 - 100:** Foarte puternică
-
-```
-
-```
